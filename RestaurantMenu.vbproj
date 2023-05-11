@@ -119,5 +119,32 @@
     </None>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apple_juice.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\perrier.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sparkling_lemonade.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gratin_dauphinoi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spinach_souffle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\french_fries.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boeuf_bourguignon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crepes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ratatouille.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
